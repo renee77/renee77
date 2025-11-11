@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renee77
 - 👀 I’m interested in healthcare opensource and playing bridge
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m have been learning java html javascript css and php- 
+- 💞️ I’m looking to collaborate on semi professional beginner asignments
 - 📫 How to reach me ...
 
 <!---
